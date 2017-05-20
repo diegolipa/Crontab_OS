@@ -1,4 +1,4 @@
-﻿#Diego Frank Lipa Chque - cuarto commit
+﻿#Diego Frank Lipa Chque - Quinto commit
 #dflc2
 #Argumento 1: Minuto (0-59)
 #Argumento 2: Hora (0-23)
@@ -16,6 +16,7 @@
 58 19 * * 1-4 sh /home/diego/os/scripgit/alert.sh
 28 17 * * 5 sh /home/diego/os/scripgit/alert.sh
 
+=======================================================
 =======================================================
 =======================================================
 =======================================================

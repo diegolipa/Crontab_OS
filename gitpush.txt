@@ -1,5 +1,5 @@
 #!/bin/bash
 cd /home/diego/os/git
 git add .
-git commit -m "mi cuarto commit automatizado en crontab"
+git commit -m "mi Quinto commit automatizado en crontab"
 git push -u origin master
